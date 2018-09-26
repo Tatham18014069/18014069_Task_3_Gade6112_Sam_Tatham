@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTS game", "RTS game\RTS game.csproj", "{52A73FCD-1991-4FE9-ABDD-62FB74A4F752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A73FCD-1991-4FE9-ABDD-62FB74A4F752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A73FCD-1991-4FE9-ABDD-62FB74A4F752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A73FCD-1991-4FE9-ABDD-62FB74A4F752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A73FCD-1991-4FE9-ABDD-62FB74A4F752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F78D85A3-A4D0-47D3-A5FE-A3B5696D3169}
+	EndGlobalSection
+EndGlobal

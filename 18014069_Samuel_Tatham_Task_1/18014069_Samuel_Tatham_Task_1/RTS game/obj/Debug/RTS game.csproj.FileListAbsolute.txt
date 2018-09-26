@@ -1,0 +1,19 @@
+E:\Task 1 poe\RTS game\RTS game\bin\Debug\RTS game.exe.config
+E:\Task 1 poe\RTS game\RTS game\bin\Debug\RTS game.exe
+E:\Task 1 poe\RTS game\RTS game\bin\Debug\RTS game.pdb
+E:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS_game.RTSGame.resources
+E:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS_game.Properties.Resources.resources
+E:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS game.csproj.GenerateResource.Cache
+E:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS game.csproj.CoreCompileInputs.cache
+E:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS game.exe
+E:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS game.pdb
+F:\Task 1 poe\RTS game\RTS game\bin\Debug\RTS game.exe.config
+F:\Task 1 poe\RTS game\RTS game\bin\Debug\RTS game.exe
+F:\Task 1 poe\RTS game\RTS game\bin\Debug\RTS game.pdb
+F:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS_game.RTSGame.resources
+F:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS_game.Properties.Resources.resources
+F:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS game.csproj.GenerateResource.Cache
+F:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS game.csproj.CoreCompileInputs.cache
+F:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS game.exe
+F:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS game.pdb
+F:\Task 1 poe\RTS game\RTS game\obj\Debug\RTS game.csprojResolveAssemblyReference.cache
